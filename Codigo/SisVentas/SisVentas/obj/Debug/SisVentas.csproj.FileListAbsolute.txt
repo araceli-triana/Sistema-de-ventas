@@ -46,28 +46,3 @@ C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisV
 C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.CopyComplete
 C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.exe
 C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.pdb
-C:\Users\abraham\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\bin\Debug\SisVentas.exe.config
-C:\Users\abraham\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\bin\Debug\SisVentas.exe
-C:\Users\abraham\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\bin\Debug\SisVentas.pdb
-C:\Users\abraham\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\bin\Debug\Libreria.dll
-C:\Users\abraham\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\bin\Debug\Libreria.pdb
-C:\Users\abraham\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.csprojAssemblyReference.cache
-C:\Users\abraham\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.ConsultarClientes.resources
-C:\Users\abraham\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.ConsultarProductos.resources
-C:\Users\abraham\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.Consultas.resources
-C:\Users\abraham\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.Contenedor_Principal.resources
-C:\Users\abraham\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.Facturacion.resources
-C:\Users\abraham\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.FormBase.resources
-C:\Users\abraham\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.Mantenimiento.resources
-C:\Users\abraham\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.MantenimientoCliente.resources
-C:\Users\abraham\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.MantenimientoProductos.resources
-C:\Users\abraham\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.MantenimientoUsuario.resources
-C:\Users\abraham\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.VentanaAdministrador.resources
-C:\Users\abraham\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.VentanaLogin.resources
-C:\Users\abraham\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
-C:\Users\abraham\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.VentanaUsuario.resources
-C:\Users\abraham\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.GenerateResource.cache
-C:\Users\abraham\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.CoreCompileInputs.cache
-C:\Users\abraham\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.CopyComplete
-C:\Users\abraham\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.exe
-C:\Users\abraham\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.pdb

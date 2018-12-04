@@ -100,12 +100,6 @@
     <Compile Include="MantenimientoProductos.Designer.cs">
       <DependentUpon>MantenimientoProductos.cs</DependentUpon>
     </Compile>
-    <Compile Include="MantenimientoUsuario.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="MantenimientoUsuario.Designer.cs">
-      <DependentUpon>MantenimientoUsuario.cs</DependentUpon>
-    </Compile>
     <Compile Include="Procesos.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -158,9 +152,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="MantenimientoProductos.resx">
       <DependentUpon>MantenimientoProductos.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="MantenimientoUsuario.resx">
-      <DependentUpon>MantenimientoUsuario.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="VentanaAdministrador.resx">
       <DependentUpon>VentanaAdministrador.cs</DependentUpon>
