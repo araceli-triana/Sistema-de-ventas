@@ -1,0 +1,48 @@
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\SisVentas\bin\Debug\SisVentas.exe.config
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\SisVentas\bin\Debug\SisVentas.exe
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\SisVentas\bin\Debug\SisVentas.pdb
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\SisVentas\obj\Debug\SisVentas.csprojAssemblyReference.cache
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.GenerateResource.cache
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.CoreCompileInputs.cache
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\SisVentas\obj\Debug\SisVentas.exe
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\SisVentas\obj\Debug\SisVentas.pdb
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\SisVentas\bin\Debug\Libreria.dll
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\SisVentas\bin\Debug\Libreria.pdb
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.CopyComplete
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\SisVentas\obj\Debug\SisVentas.VentanaAdministrador.resources
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\SisVentas\obj\Debug\SisVentas.VentanaLogin.resources
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\SisVentas\obj\Debug\SisVentas.VentanaUsuario.resources
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\SisVentas\obj\Debug\SisVentas.FormBase.resources
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\SisVentas\obj\Debug\SisVentas.Contenedor_Principal.resources
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\SisVentas\obj\Debug\SisVentas.Mantenimiento.resources
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\SisVentas\obj\Debug\SisVentas.MantenimientoCliente.resources
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\SisVentas\obj\Debug\SisVentas.MantenimientoProductos.resources
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\SisVentas\obj\Debug\SisVentas.Consultas.resources
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\SisVentas\obj\Debug\SisVentas.ConsultarClientes.resources
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\SisVentas\obj\Debug\SisVentas.ConsultarProductos.resources
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\SisVentas\obj\Debug\SisVentas.Facturacion.resources
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\bin\Debug\SisVentas.exe.config
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\bin\Debug\SisVentas.exe
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\bin\Debug\SisVentas.pdb
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\bin\Debug\Libreria.dll
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\bin\Debug\Libreria.pdb
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.csprojAssemblyReference.cache
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.ConsultarClientes.resources
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.ConsultarProductos.resources
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.Consultas.resources
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.Contenedor_Principal.resources
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.Facturacion.resources
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.FormBase.resources
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.Mantenimiento.resources
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.MantenimientoCliente.resources
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.MantenimientoProductos.resources
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.VentanaAdministrador.resources
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.VentanaLogin.resources
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.VentanaUsuario.resources
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.GenerateResource.cache
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.CoreCompileInputs.cache
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.CopyComplete
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.exe
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\SisVentas\obj\Debug\SisVentas.pdb

@@ -1,0 +1,12 @@
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\Libreria\bin\Debug\Libreria.dll
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\Libreria\bin\Debug\Libreria.pdb
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\Libreria\obj\Debug\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\Libreria\obj\Debug\Libreria.dll
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\Libreria\obj\Debug\Libreria.pdb
+C:\Users\Aracely Triana\Documents\Visual Studio 2017\SisVentas\Libreria\obj\Debug\Libreria.csprojAssemblyReference.cache
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\Libreria\bin\Debug\Libreria.dll
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\Libreria\bin\Debug\Libreria.pdb
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\Libreria\obj\Debug\Libreria.csprojAssemblyReference.cache
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\Libreria\obj\Debug\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\Libreria\obj\Debug\Libreria.dll
+C:\Users\Aracely Triana\Documents\GitHub\Sistema-de-ventas\Codigo\SisVentas\Libreria\obj\Debug\Libreria.pdb
