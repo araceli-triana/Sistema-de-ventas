@@ -138,5 +138,12 @@ namespace SisVentas
             fact.MdiParent = this;
             fact.Show();
         }
+
+        private void usuariosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MantenimientoUsuario ManUsu = new MantenimientoUsuario();
+            ManUsu.MdiParent = this;
+            ManUsu.Show();
+        }
     }
 }
