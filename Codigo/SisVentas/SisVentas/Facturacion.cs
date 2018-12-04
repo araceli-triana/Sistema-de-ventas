@@ -167,5 +167,42 @@ namespace SisVentas
             total = 0;
             txtCodigoCli.Focus();
         }
+
+        private void btnFacturar_Click(object sender, EventArgs e)
+        {
+            if (contFila != 0)
+            {
+                try
+                {
+                    string cmd = string.Format("Exec ActualizaFacturas '{0}'", txtCodigoCli.Text.Trim());
+                    DataSet ds = Utilizar.Ejecutar(cmd);
+
+                    string NumeroFactura = ds.Tables[0].Rows[0]["NumeroFactura"].ToString().Trim();
+                    foreach (DataGridViewRow fila in dataGridView1.Rows)
+                    {
+                        cmd = string.Format("Exec ActualizaDetalles '{0}','{1}','{2}','{3}'", NumeroFactura, fila.Cells[0].Value.ToString(),
+                            fila.Cells[2].Value.ToString(), fila.Cells[3].Value.ToString());
+                        ds = Utilizar.Ejecutar(cmd);
+
+                    }
+                    cmd = "Exec DatosFactura " + NumeroFactura;
+                    ds = Utilizar.Ejecutar(cmd);
+
+                    //instancia para ventana reporte
+                    Reporte rp = new Reporte();
+                    rp.reportViewer1.LocalReport.DataSources[0].Value = ds.Tables[0];
+                    rp.ShowDialog();
+
+                    Nuevo();
+
+                }
+                catch (Exception Error)
+                {
+                    MessageBox.Show("Error: " + Error.Message);
+                }
+            }
+        }
     }
 }
+        
+    
