@@ -48,6 +48,8 @@ namespace SisVentas
         }
 
         public static int contFila = 0;
+        public static double total;
+
         private void btnColocar_Click(object sender, EventArgs e)
         {
             if(Utilizar.ValidarFormulario(this,errorProvider1)==false)
@@ -79,20 +81,44 @@ namespace SisVentas
                     {
                         dataGridView1.Rows[numFila].Cells[3].Value = (Convert.ToDouble(txtCantidad.Text) +
                             Convert.ToDouble(dataGridView1.Rows[numFila].Cells[3].Value)).ToString();
+
                         double importe = Convert.ToDouble(dataGridView1.Rows[numFila].Cells[2].Value) 
                             * Convert.ToDouble(dataGridView1.Rows[numFila].Cells[3].Value);
+
                         dataGridView1.Rows[numFila].Cells[4].Value = importe;
                     }
                     else
                     {
                         dataGridView1.Rows.Add(txtCodigoPro.Text, txtDescripcion.Text, txtPrecio.Text, txtCantidad.Text);
+
                         double importe = Convert.ToDouble(dataGridView1.Rows[contFila].Cells[2].Value)
                             * Convert.ToDouble(dataGridView1.Rows[contFila].Cells[3].Value);
+
                         dataGridView1.Rows[contFila].Cells[4].Value = importe;
 
                         contFila++;
                     }
                 }
+
+                    total = 0;
+                    
+                foreach (DataGridViewRow fila in dataGridView1.Rows)
+                {
+                    total += Convert.ToDouble(fila.Cells[4].Value);
+
+                }
+                lblTotal.Text = "MX$ " + total.ToString();
+            }
+        }
+
+        private void btnEliminar_Click(object sender, EventArgs e)
+        {
+            if(contFila >0)
+            {
+                total = total - (Convert.ToDouble(dataGridView1.Rows[dataGridView1.CurrentRow.Index].Cells[4].Value));
+                lblTotal.Text = "MX$ " + total.ToString();
+                dataGridView1.Rows.RemoveAt(dataGridView1.CurrentRow.Index);
+                contFila--;
             }
         }
     }
