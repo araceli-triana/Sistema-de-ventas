@@ -132,6 +132,11 @@ namespace SisVentas
             ConPro.Show();
         }
 
-        
+        private void facturacionToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Facturacion fact = new Facturacion();
+            fact.MdiParent = this;
+            fact.Show();
+        }
     }
 }
